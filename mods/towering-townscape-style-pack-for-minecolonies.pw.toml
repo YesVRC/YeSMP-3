@@ -1,0 +1,13 @@
+name = "Towering Townscape Style Pack for Minecolonies"
+filename = "toweringtownscape-1.4-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4d5af2215a4e41f38f26cfd38625150ebaa4fe2c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5680418
+project-id = 1071934

@@ -1,0 +1,13 @@
+name = "Ars Artillery"
+filename = "ars_artillery-1.1.7-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f2ff4ac77475f57552797879ab60684d54649e1b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5666890
+project-id = 1070559

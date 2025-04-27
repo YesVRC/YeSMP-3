@@ -1,0 +1,106 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "_YSNT_",
+      "uniqueId": "48f49571-ab3d-4748-bcd9-1f6dff1a5976"
+    },
+    "time": 1742686255902,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/36iXYXA8dd"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "_YSNT_",
+      "uniqueId": "48f49571-ab3d-4748-bcd9-1f6dff1a5976"
+    },
+    "time": 1742685816504,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/rIQiD5V0BK"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "_YSNT_",
+      "uniqueId": "48f49571-ab3d-4748-bcd9-1f6dff1a5976"
+    },
+    "time": 1742685469422,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/fRtr4JObSX"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "_YSNT_",
+      "uniqueId": "48f49571-ab3d-4748-bcd9-1f6dff1a5976"
+    },
+    "time": 1742577302810,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/eqDjSZrxaJ"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "_YSNT_",
+      "uniqueId": "48f49571-ab3d-4748-bcd9-1f6dff1a5976"
+    },
+    "time": 1742577032690,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/N398IKlj72"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "_YSNT_",
+      "uniqueId": "48f49571-ab3d-4748-bcd9-1f6dff1a5976"
+    },
+    "time": 1742576934013,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/ZXrfeX9i9y"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "_YSNT_",
+      "uniqueId": "48f49571-ab3d-4748-bcd9-1f6dff1a5976"
+    },
+    "time": 1742528011367,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/qgn2U7VZw3"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "_YSNT_",
+      "uniqueId": "48f49571-ab3d-4748-bcd9-1f6dff1a5976"
+    },
+    "time": 1742527999478,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/VXG9bsBDSy"
+    }
+  }
+]

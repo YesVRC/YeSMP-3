@@ -1,0 +1,13 @@
+name = "Mandala's GUI - White mode"
+filename = "MandalasGUI+Whitemode_1.20.5r.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "82cbd11398e16aa9f9b7078583c72329882647c6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5297584
+project-id = 858464

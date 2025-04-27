@@ -1,0 +1,13 @@
+name = "Create Air (A ThinAir compat)"
+filename = "createair-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "915cad30f9ec3ac88450546dd96d60d03ca7f7b8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6300622
+project-id = 880593

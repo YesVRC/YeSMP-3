@@ -1,0 +1,13 @@
+name = "ME Proxy"
+filename = "meproxy-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c9f60bdaa35dc48563025aca95c211e2309ebde1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6389735
+project-id = 1222136

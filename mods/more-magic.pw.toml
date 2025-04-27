@@ -1,0 +1,13 @@
+name = "More Magic"
+filename = "more-magic-1.1.1-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1c9f4077a278cac7dfeb72cd924f423eda0baf47"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4830070
+project-id = 927195
