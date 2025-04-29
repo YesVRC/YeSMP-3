@@ -1,12 +1,12 @@
 name = "YeSMP 3"
 author = "Yes"
-version = "1.0.0"
+version = "1.0.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "8b47a0518acfc4f16d8e221b7523a2523cbfdc1c174d5e1a107b3e5ca66cb534"
+hash = "9400b85fbf6e225814c10f29143c0af69e8a0b7019e39dec6b2011499384c0cf"
 
 [versions]
 forge = "47.4.0"
@@ -14,3 +14,4 @@ minecraft = "1.20.1"
 
 [options]
 acceptable-game-versions = ["1.20.1"]
+datapack-folder = "resourcepacks"

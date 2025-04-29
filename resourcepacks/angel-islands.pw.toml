@@ -1,0 +1,13 @@
+name = "Angel Islands"
+filename = "Angel_Islands_1.0.1.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/kHqaSlhI/versions/pVUlow05/Angel_Islands_1.0.1.zip"
+hash-format = "sha512"
+hash = "d5b26c9ba8782eae8236b2f420ccc2869e7428f1905cf846240749c0c8330f74b2134f77475fc4dfd737771f5f674c4bc70e3a7fe205cf587d30d0f0cac68757"
+
+[update]
+[update.modrinth]
+mod-id = "kHqaSlhI"
+version = "pVUlow05"
